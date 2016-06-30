@@ -4,6 +4,9 @@ node_modules/*
 # Typings
 typings/*
 
+# Generated js and map
+app/*.js|map
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
