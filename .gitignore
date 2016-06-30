@@ -1,3 +1,9 @@
+# Node_Modules
+node_modules/
+
+# Typings
+typings/
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
