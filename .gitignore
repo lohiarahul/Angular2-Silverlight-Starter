@@ -1,8 +1,8 @@
 # Node_Modules
-node_modules/
+node_modules/*
 
 # Typings
-typings/
+typings/*
 
 # Windows image file caches
 Thumbs.db
